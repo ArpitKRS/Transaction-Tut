@@ -1,0 +1,26 @@
+{
+  "name": "transaction",
+  "version": "1.0.0",
+  "description": "How to send transactions with Web3 and Nodejs, it's a basic tutorial session on that.",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArpitKRS/Transaction-Tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArpitKRS/Transaction-Tut/issues"
+  },
+  "homepage": "https://github.com/ArpitKRS/Transaction-Tut#readme",
+  "dependencies": {
+    "web3": "^1.10.0"
+  }
+}
